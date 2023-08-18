@@ -30,4 +30,6 @@ Player 1이 Player 2에 대해서 승리할 확률을 연산하는 프레임워�
 
 10. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델 - 3
 
-11. Extra - .gitignore 파일 추가
+11. Extra - .gitignore 파일 추가 - 1
+
+12. Extra - .gitignore 파일 추가 - 2
