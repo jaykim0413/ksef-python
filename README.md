@@ -20,16 +20,20 @@ Player 1이 Player 2에 대해서 승리할 확률을 연산하는 프레임워�
 
 6. Class #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델
 
-6. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델 - 1
+7. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델 - 1
 
-7. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 두 명의 player가 할 때, length n의 case가 다른 length n의 case에 대하여 이길 확룰을 연산하는 모델 - Revised
+8. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 두 명의 player가 할 때, length n의 case가 다른 length n의 case에 대하여 이길 확룰을 연산하는 모델 - Revised
 
-8. Extra - 앞서 제작한 두 모델의 결과물을 기록하는 .txt 파일 추가
+9. Extra - 앞서 제작한 두 모델의 결과물을 기록하는 .txt 파일 추가 
 
-9. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델 - 2
+10. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델 - 2
 
-10. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델 - 3
+11. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델 - 3
 
-11. Extra - .gitignore 파일 추가 - 1
+12. Extra - .gitignore 파일 추가 - 1
 
-12. Extra - .gitignore 파일 추가 - 2
+13. Extra - .gitignore 파일 추가 - 2
+
+14. Class #5 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램
+
+15. Homework #5 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기 - 1
