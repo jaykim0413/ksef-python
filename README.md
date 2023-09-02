@@ -2,9 +2,8 @@
 
 ## Info
 
-m개의 숫자가 동일한 확률로 나오는 주사위를 가지고 2명의 사람이 게임을 할 때,
-n번 던졌을 때 나오는 m^n가지의 조합들 중에 Player 1이 하나의 조합을 선택하고 Player 2도 하나의 조합을 선택할 때,
-Player 1이 Player 2에 대해서 승리할 확률을 연산하는 프레임워크
+- m개의 숫자가 동일한 확률로 나오는 주사위를 가지고 2명의 사람이 게임을 할 때, n번 던졌을 때 나오는 m^n가지의 조합들 중에 Player 1이 하나의 조합을 선택하고 Player 2도 하나의 조합을 선택할 때, Player 1이 Player 2에 대해서 승리할 확률을 연산하는 프레임워크
+- Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램
 
 ## Commit Titles
 
@@ -37,3 +36,7 @@ Player 1이 Player 2에 대해서 승리할 확률을 연산하는 프레임워�
 14. Class #5 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램
 
 15. Homework #5 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기 - 1
+
+16. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기
+
+17. Extra - 새로운 프로그램의 결과를 기록하는 .txt 파일 추가

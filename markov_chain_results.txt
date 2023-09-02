@@ -1,0 +1,43 @@
+Expected Values for when m: 2, n: 2
+
+E(X) for case [0. 0.] : 6
+E(X) for case [0. 1.] : 4
+E(X) for case [1. 0.] : 4
+E(X) for case [1. 1.] : 6
+
+--------------------
+
+Expected Values for when m: 2, n: 3
+
+E(X) for case [0. 0. 0.] : 14
+E(X) for case [0. 0. 1.] : 12
+E(X) for case [0. 1. 0.] : 10
+E(X) for case [0. 1. 1.] : 8
+E(X) for case [1. 0. 0.] : 8
+E(X) for case [1. 0. 1.] : 10
+E(X) for case [1. 1. 0.] : 12
+E(X) for case [1. 1. 1.] : 14
+
+--------------------
+
+Expected Values for when m: 2, n: 4
+
+E(X) for case [0. 0. 0. 0.] : 30
+E(X) for case [0. 0. 0. 1.] : 28
+E(X) for case [0. 0. 1. 0.] : 26
+E(X) for case [0. 0. 1. 1.] : 24
+E(X) for case [0. 1. 0. 0.] : 22
+E(X) for case [0. 1. 0. 1.] : 20
+E(X) for case [0. 1. 1. 0.] : 18
+E(X) for case [0. 1. 1. 1.] : 16
+E(X) for case [1. 0. 0. 0.] : 16
+E(X) for case [1. 0. 0. 1.] : 18
+E(X) for case [1. 0. 1. 0.] : 20
+E(X) for case [1. 0. 1. 1.] : 22
+E(X) for case [1. 1. 0. 0.] : 24
+E(X) for case [1. 1. 0. 1.] : 26
+E(X) for case [1. 1. 1. 0.] : 28
+E(X) for case [1. 1. 1. 1.] : 30
+
+--------------------
+
