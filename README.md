@@ -37,6 +37,8 @@
 
 15. Homework #5 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기 - 1
 
-16. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기
+16. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기 - 1
 
 17. Extra - 새로운 프로그램의 결과를 기록하는 .txt 파일 추가
+
+18. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.txt - 2
