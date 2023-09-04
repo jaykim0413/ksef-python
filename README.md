@@ -50,3 +50,5 @@
 21. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.csv, 기존 기록 파일 용량 초과 --> 삭제 - 2
 
 22. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.csv - 3
+
+23. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.csv - 4
