@@ -56,3 +56,5 @@
 24. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.csv - 5
 
 25. Homework #7 - Martingale을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, File name: `KSEF_Martinagle_ver_1.0.0.ipynb`
+
+26. Extra - 기존에 결과 기록 파일들을 폴더에 정리
