@@ -2,59 +2,64 @@
 
 ## Info
 
-- m개의 숫자가 동일한 확률로 나오는 주사위를 가지고 2명의 사람이 게임을 할 때, n번 던졌을 때 나오는 m^n가지의 조합들 중에 Player 1이 하나의 조합을 선택하고 Player 2도 하나의 조합을 선택할 때, Player 1이 Player 2에 대해서 승리할 확률을 연산하는 프레임워크
-- Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램
+- `m`개의 숫자가 동일한 확률로 나오는 주사위를 가지고 2명의 사람이 게임을 할 때, `n`번 던졌을 때 나오는 `m^n`가지의 조합들 중에 `Player 1`이 하나의 조합을 선택하고 `Player 2`도 하나의 조합을 선택할 때, `Player 1`이 `Player 2`에 대해서 승리할 확률을 연산하는 프레임워크
+- `Markov Chain`을 활용한 trial이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램
+- `Martingale`을 활용한 trial이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램
 
 ## Commit Titles
 
-1. Class #2 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 두 명의 player가 할 때, length n의 case가 다른 length n의 case에 대하여 이길 확룰을 연산하는 모델
+1. Class #2 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 `trial`을 두 명의 `player`가 할 때, `length n`의 `case`가 다른 `length n`의 `case`에 대하여 이길 확룰을 연산하는 모델
 
-2. Homework #2 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 두 명의 player가 할때, length n의 case가 다른 length n의 case에 대하여 이길 확룰을 연산하는 모델 - 1
+2. Homework #2 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 `trial`을 두 명의 `player`가 할 때, `length n`의 `case`가 다른 `length n`의 `case`에 대하여 이길 확룰을 연산하는 모델 작성하기 - 1
 
-3. Homework #2 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 두 명의 player가 할때, length n의 case가 다른 length n의 case에 대하여 이길 확룰을 연산하는 모델 - 2
+3. Homework #2 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 `trial`을 두 명의 `player`가 할 때, `length n`의 `case`가 다른 `length n`의 `case`에 대하여 이길 확룰을 연산하는 모델 작성하기 - 2
 
-4. Homework #2 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 두 명의 player가 할때, length n의 case가 다른 length n의 case에 대하여 이길 확룰을 연산하는 모델 - 3
+4. Homework #2 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 `trial`을 두 명의 `player`가 할 때, `length n`의 `case`가 다른 `length n`의 `case`에 대하여 이길 확룰을 연산하는 모델 작성하기 - 3
 
-5. Class #3 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 두 명의 player가 할 때, length n의 case가 다른 length n의 case에 대하여 이길 확룰을 연산하는 모델
+5. Class #3 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 `trial`을 두 명의 `player`가 할 때, `length n`의 `case`가 다른 `length n`의 `case`에 대하여 이길 확룰을 연산하는 모델
 
-6. Class #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델
+6. Class #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 `trial`을 두 명의 `player`가 할 때, `length n`의 `case`가 다른 `length n`의 `case`에 대하여 이길 확룰을 연산하는 모델
 
-7. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델 - 1
+7. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 `trial`을 두 명의 `player`가 할 때, `length n`의 `case`가 다른 `length n`의 `case`에 대하여 이길 확룰을 연산하는 모델 작성하기 - 1
 
-8. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 두 명의 player가 할 때, length n의 case가 다른 length n의 case에 대하여 이길 확룰을 연산하는 모델 - Revised
+8. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 `trial`을 두 명의 `player`가 할 때, `length n`의 `case`가 다른 `length n`의 `case`에 대하여 이길 확룰을 연산하는 모델 작성하기 - Revised
 
-9. Extra - 앞서 제작한 두 모델의 결과물을 기록하는 .txt 파일 추가 
+9. Extra - 앞서 제작한 두 모델의 결과물을 기록하는 `.txt` 파일 추가 
 
-10. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델 - 2
+10. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 `trial`을 두 명의 `player`가 할 때, `length n`의 `case`가 다른 `length n`의 `case`에 대하여 이길 확룰을 연산하는 모델 작성하기 - 2
 
-11. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 trial을 할 때, length n의 case가 나올 때까지 던져야 하는 기댓값 E(X)를 연산하는 모델 - 3
+11. Homework #4 - 등장할 확률이 일정한 m개의 문자 중에 하나의 문자를 뽑는 `trial`을 두 명의 `player`가 할 때, `length n`의 `case`가 다른 `length n`의 `case`에 대하여 이길 확룰을 연산하는 모델 작성하기 - 3
 
-12. Extra - .gitignore 파일 추가 - 1
+12. Extra - `.gitignore` 파일 추가 - 1
 
-13. Extra - .gitignore 파일 추가 - 2
+13. Extra - `.gitignore` 파일 추가 - 2
 
-14. Class #5 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램
+14. Class #5 - `Markov Chain`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램
 
-15. Homework #5 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기 - 1
+15. Homework #5 - `Markov Chain`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기 - 1
 
-16. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기 - 1
+16. Homework #6 - `Markov Chain`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기
 
-17. Extra - 새로운 프로그램의 결과를 기록하는 .txt 파일 추가
+17. Extra - 새로운 프로그램의 결과를 기록하는 `.txt` 파일 추가
 
-18. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.txt - 2
+18. Homework #6 - `Markov Chain`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 `markov_chain_results.txt` - 1
 
-19. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.txt - 3
+19. Homework #6 - `Markov Chain`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 `markov_chain_results.txt` - 2
 
-20. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.csv, 기존 기록 파일 용량 초과 --> 삭제 - 1
+20. Homework #6 - `Markov Chain`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 `markov_chain_results.csv`, 기존 기록 파일 용량 초과하여 삭제 - 1
 
-21. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.csv, 기존 기록 파일 용량 초과 --> 삭제 - 2
+21. Homework #6 - `Markov Chain`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 `markov_chain_results.csv`, 기존 기록 파일 용량 초과하여 삭제 - 2
 
-22. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.csv - 3
+22. Homework #6 - `Markov Chain`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 `markov_chain_results.csv` - 1
 
-23. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.csv - 4
+23. Homework #6 - `Markov Chain`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 `markov_chain_results.csv` - 2
 
-24. Homework #6 - Markov Chain을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 @markov_chain_results.csv - 5
+24. Homework #6 - `Markov Chain`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 `markov_chain_results.csv` - 3
 
-25. Homework #7 - Martingale을 활용한 trial이 나올 때까지의 E(X) 기댓값을 구하는 프로그램 작성하기, File name: `KSEF_Martinagle_ver_1.0.0.ipynb`
+25. Homework #7 - `Martingale`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, **File name**: `KSEF_Martinagle_ver_1.0.0.ipynb`
 
 26. Extra - 기존에 결과 기록 파일들을 폴더에 정리
+
+27. Homework #7 - `Martingale`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 **Folder name**: `martingale_results`
+
+28. Extra - Formated Commit Titles
