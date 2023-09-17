@@ -63,3 +63,5 @@
 27. Homework #7 - `Martingale`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, 결과값 추가 기록 **Folder name**: `martingale_results`
 
 28. Extra - Formated Commit Titles
+
+29. Homework #8 - `Martingale`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, `create_cases` 함수의 연산과정을 직접 `append`하는 과정에서 파이썬의 [itertools](["https://docs.python.org/3/library/itertools.html"]) 패캐지의 `product` 함수를 사용하여 연산 소요 시간 단축
