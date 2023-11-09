@@ -67,3 +67,5 @@
 29. Homework #8 - `Martingale`을 활용한 `trial`이 나올 때까지의 `E(X)` 기댓값을 구하는 프로그램 작성하기, `create_cases` 함수의 연산과정을 직접 `append`하는 과정에서 파이썬의 [itertools](["https://docs.python.org/3/library/itertools.html"]) 패캐지의 `product` 함수를 사용하여 연산 소요 시간 단축
 
 30. Homework #9 - `Conway's Algorithm`과 `Martingale`을 활용한 `Penney's Game`에서 player 1이 player 2에 대해서 각각 선택한 패턴에 따라 승리할 확률을 기록한 표를 구하는 프로그램 작성하기, `conway_algorithm_results` 폴더에 동전을 가지고 문자열 길이가 2부터 7인 경우까지의 승리 확률 기록 파일 `.csv` 형식으로 저장
+
+31. Homework #9 - `conway_algorithm_results` 폴더에 동전을 가지고 문자열 길이가 2부터 7인 경우까지의 승리 확률 기록 파일 `.csv` 형식으로 저장 - 1
