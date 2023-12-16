@@ -69,3 +69,5 @@
 30. Homework #9 - `Conway's Algorithm`과 `Martingale`을 활용한 `Penney's Game`에서 player 1이 player 2에 대해서 각각 선택한 패턴에 따라 승리할 확률을 기록한 표를 구하는 프로그램 작성하기, `conway_algorithm_results` 폴더에 동전을 가지고 문자열 길이가 2부터 7인 경우까지의 승리 확률 기록 파일 `.csv` 형식으로 저장
 
 31. Homework #9 - `conway_algorithm_results` 폴더에 동전을 가지고 문자열 길이가 2부터 7인 경우까지의 승리 확률 기록 파일 `.csv` 형식으로 저장 - 1
+
+32. Extra - `KSEF_Visualizer.ipynb` 파일에 상대 승률을 표현한 표를 `Heat Map`으로 표현하는 코드를 작성 및 저장 
