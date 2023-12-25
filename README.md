@@ -71,3 +71,5 @@
 31. Homework #9 - `conway_algorithm_results` 폴더에 동전을 가지고 문자열 길이가 2부터 7인 경우까지의 승리 확률 기록 파일 `.csv` 형식으로 저장 - 1
 
 32. Extra - `KSEF_Visualizer.ipynb` 파일에 상대 승률을 표현한 표를 `Heat Map`으로 표현하는 코드를 작성 및 저장 
+
+33. Final - `KSEF_OptimalSequenceIdentifier.ipynb` 파일에 상대가 선택한 배열에 대해 승률 상 절대적 우위에 있는 배열을 탐색하는 코드를 작성 및 저장 (by 이재현 선생님)
